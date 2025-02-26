@@ -1,13 +1,13 @@
 # D60Resources
 
 
+<a href="https://github.com/PixelPalsPCC/dma60" target="_blank">DMA 60</a>
+
+
 <a href="https://github.com/PixelPalsPCC/processing-examples" target="_blank">Processing Foundation Examples</a>
 
 
 <a href="https://github.com/PixelPalsPCC/programmingdesignsystems.com-examples" target="_blank">Programming Design Systems Examples</a>
-
-
-<a href="https://github.com/PixelPalsPCC/dma60" target="_blank">DMA 60</a>
 
 
 <a href="https://github.com/PixelPalsPCC/DataBendingExercise" target="_blank">Data Bending Exercise</a>
