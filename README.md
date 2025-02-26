@@ -1,12 +1,6 @@
 # D60Resources
 
 
-<a href="https://github.com/PixelPalsPCC/Colorcircles" target="_blank">Color Circles</a>
-
-
-<a href="https://github.com/PixelPalsPCC/Vertex-Drawing" target="_blank">Vertex-Drawing</a>
-
-
 <a href="https://github.com/PixelPalsPCC/processing-examples" target="_blank">Processing Examples</a>
 
 
