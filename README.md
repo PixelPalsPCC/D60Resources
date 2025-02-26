@@ -2,7 +2,7 @@
 
  
 
-<a href="https://github.com/PixelPalsPCC/processing-examples" targat="_blank">Processing Examples</a>
+<a href="https://github.com/PixelPalsPCC/processing-examples" target="_blank">Processing Examples</a>
 
 
 
